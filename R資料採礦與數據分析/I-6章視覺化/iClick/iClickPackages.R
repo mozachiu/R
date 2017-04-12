@@ -1,0 +1,1 @@
+install.packages(c("papeR","car","coefplot","fImport","fAssets","fBasics","ggplot2","lattice","lmtest","openair","plm","sandwich","tcltk","timeSeries","lubridate","rugarch","ellipse"),repos = "http://cran.r-project.org")
